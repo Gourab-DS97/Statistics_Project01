@@ -1,4 +1,4 @@
-# Explolatory Data Analysis + Statistical Inference on Indian Tourism
+# EDA + Descriptive Statistical Analysis on Indian Tourism
 ## Introduction:
 India being one of the oldest civilizations in the world, is famous for rich heritage and myriad attractions. As the 7th largest country in the world, India stands apart from the rest of Asia, marked off as it is by mountains and the sea, which give the country a distinct geographical entity and one of the most popular tourist destinations in the world.
 ## Objective:
